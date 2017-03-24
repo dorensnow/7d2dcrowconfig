@@ -1,0 +1,65 @@
+<?xml version='1.0'?>
+<Servers >
+<!-- Enter in your Group's Name, and any logo that you want to add for your group. Logo is 333 x210-->
+	<ServerGroup Name="The Crows-Doren Server" Logo="http://crownexus.ddns.net/images/2199463.jpg">
+	<!-- You can run multiple servers, each with different mods, players, and logos -->
+		<Server Name="The Crows Vanilla" Logo="" >
+                    <!-- RSS Feed for updates -->
+                         <RSS></RSS> 
+                     <!-- Banner icon Size is 825 x 125-->
+                         <Banner></Banner>
+		<!-- IP address of the Server, this value gets updated in the Registry -->
+			<Address>68.206.171.40</Address>						
+		<!-- Port number of the Server, this value gets updated in the Registry -->
+			<Port>26900</Port>							
+		<!-- Whitelist, Public, Private, etc . Display only field, has no other effect -->
+			<Type>Public</Type>									
+		<!-- Latest, or specify an beta version string. If other than Latest, will attempt an beta label on a steam download -->
+			<Version>Latest</Version>  		
+		<!-- Enable, Disable EAC. Determines if to run 7DaysToDie_EAC.exe or not -->			
+			<EAC>Enable</EAC>									
+		<!-- Admin Name(s). Display purposes only.  -->			
+			<Admin>Doren Snow</Admin>					
+		<!-- Contact point, could also be URL. Display purposes only -->			
+			<AdminContact>doren.snow@gmail.com</AdminContact>  	
+		<!-- Server's web page, if available. Used as a web link. -->
+			<WebSite>http://crownexus.ddns.net/Crow7daystoDie/index.htm</WebSite>	
+		<!-- Link to a webpage that will show server information, including mods. Used as a web link. -->
+			<ReleaseNotes>https://the-crows.envul.com/</ReleaseNotes>
+			<Downloads>
+		<!-- Add in each path to download the zip file: Currently supporting MediaFire, Dropbox, and some envol links. When in doubt, use a direct zip file -->
+				<Download></Download>
+			</Downloads>
+		<!-- Description of your server -->
+			<Description>A15 Stable Vanilla Server. Please use the Launcher to see icons.</Description>
+		</Server>
+		
+		<!-- Second Server, if needed-->
+		<Server Name="Crows Modded Server" >
+		<!-- IP address of the Server, this value gets updated in the Registry -->
+			<Address>68.206.171.40</Address>						
+		<!-- Port number of the Server, this value gets updated in the Registry -->
+			<Port>26910</Port>							
+		<!-- Whitelist, Public, Private, etc . Display only field, has no other effect -->
+			<Type>Public</Type>									
+		<!-- Latest, or specify an beta version string. If other than Latest, will attempt an beta label on a steam download -->
+			<Version>Latest</Version>  		
+		<!-- Enable, Disable EAC. Determines if to run 7DaysToDie_EAC.exe or not -->			
+			<EAC>Enable</EAC>									
+		<!-- Admin Name(s). Display purposes only.  -->			
+			<Admin>Doren Snow</Admin>					
+		<!-- Contact point, could also be URL. Display purposes only -->			
+			<AdminContact>doren.snow@gmail.com</AdminContact>  	
+		<!-- Server's web page, if available. Used as a web link. -->
+			<WebSite>http://crownexus.ddns.net/Crow7daystoDie/index.htm</WebSite>	
+		<!-- Link to a webpage that will show server information, including mods. Used as a web link. -->
+			<ReleaseNotes>https://crowmoddedserver.envul.com/</ReleaseNotes>
+			<Downloads>
+		<!-- Add in each path to download the zip file: Currently supporting MediaFire, Dropbox, and some envol links. When in doubt, use a direct zip file -->
+				<Download>https://github.com/dwallorde/WaroftheWalkersMod/archive/master.zip</Download>
+			</Downloads>
+		<!-- Description of your server -->
+			<Description>A15 Stable server using the War of the Walkers mod</Description>
+		</Server>		
+	</ServerGroup>
+</Servers>
