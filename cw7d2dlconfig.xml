@@ -62,7 +62,7 @@
 			<Description>A15 Stable server using the War of the Walkers mod</Description>
 		</Server>
 		
-		<Server Name="Crows Modded Server" >
+		<Server Name="Crows Slaths Modded Server" >
 		<!-- IP address of the Server, this value gets updated in the Registry -->
 			<Address>71.84.170.203</Address>						
 		<!-- Port number of the Server, this value gets updated in the Registry -->
