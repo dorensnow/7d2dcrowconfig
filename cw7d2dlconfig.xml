@@ -31,11 +31,11 @@
 				<Download></Download>
 			</Downloads>
 		<!-- Description of your server -->
-			<Description>A15 Stable Vanilla Server. Please use the Launcher to see icons.</Description>
+			<Description>A15 Stable Vanilla Server.</Description>
 		</Server>
 		
 		<!-- Second Server, if needed-->
-		<Server Name="Crows Modded Server" >
+		<Server Name="Crows Doren Modded Server" >
 		<!-- IP address of the Server, this value gets updated in the Registry -->
 			<Address>68.206.171.40</Address>						
 		<!-- Port number of the Server, this value gets updated in the Registry -->
