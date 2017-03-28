@@ -59,7 +59,7 @@
 				<Download>http://www.mediafire.com/file/rn74xfiy4ab837r/CrowModdedWotW.zip</Download>
 			</Downloads>
 		<!-- Description of your server -->
-			<Description>A15 Stable server using the War of the Walkers mod</Description>
+			<Description>A15 Stable server using the War of the Walkers mod and Combo prefabs</Description>
 		</Server>
 		
 		<Server Name="Crows Slaths Modded Server" >
@@ -86,7 +86,7 @@
 				<Download>http://www.mediafire.com/file/rn74xfiy4ab837r/CrowModdedWotW.zip</Download>
 			</Downloads>
 		<!-- Description of your server -->
-			<Description>A15 Stable server using the War of the Walkers mod</Description>
+			<Description>A15 Stable server using the War of the Walkers mod and combo prefabs</Description>
 		</Server>		
 	</ServerGroup>
 </Servers>
