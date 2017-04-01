@@ -56,7 +56,7 @@
 			<ReleaseNotes>https://crowmoddedserver.envul.com/</ReleaseNotes>
 			<Downloads>
 		<!-- Add in each path to download the zip file: Currently supporting MediaFire, Dropbox, and some envol links. When in doubt, use a direct zip file -->
-				<Download>https://github.com/7days2mod/Valmod-Overhaul/archive/master.zip</Download>
+				<Download>http://www.mediafire.com/file/1v7gspkllzk97yn/CrowModdedValO.zip</Download>
 			</Downloads>
 		<!-- Description of your server -->
 			<Description>A15 Stable server using the Valmod Overhaul Mod</Description>
