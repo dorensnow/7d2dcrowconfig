@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding="UTF-8"?>
 <Servers >
 <!-- Enter in your Group's Name, and any logo that you want to add for your group. Logo is 333 x210-->
-	<ServerGroup Name="The Crows-Doren Server" Logo="http://crownexus.ddns.net/images/2199463.jpg">
+	<ServerGroup Name="Doren Server" Logo="http://crownexus.ddns.net/images/2199463.jpg">
 	<!-- You can run multiple servers, each with different mods, players, and logos -->
-		<Server Name="The Crows Vanilla" Logo="" >
+		<Server Name="The Doren Snow Vanilla" Logo="" >
                     <!-- RSS Feed for updates -->
                          <RSS></RSS> 
                      <!-- Banner icon Size is 825 x 125-->
                          <Banner></Banner>
 		<!-- IP address of the Server, this value gets updated in the Registry -->
-			<Address>68.206.171.40</Address>						
+			<Address>70.122.75.20</Address>						
 		<!-- Port number of the Server, this value gets updated in the Registry -->
 			<Port>26900</Port>							
 		<!-- Whitelist, Public, Private, etc . Display only field, has no other effect -->
@@ -23,7 +23,7 @@
 		<!-- Contact point, could also be URL. Display purposes only -->			
 			<AdminContact>doren.snow@gmail.com</AdminContact>  	
 		<!-- Server's web page, if available. Used as a web link. -->
-			<WebSite>http://crownexus.ddns.net/Crow7daystoDie/index.htm</WebSite>	
+			<WebSite></WebSite>	
 		<!-- Link to a webpage that will show server information, including mods. Used as a web link. -->
 			<ReleaseNotes>https://the-crows.envul.com/</ReleaseNotes>
 			<Downloads>
@@ -35,9 +35,9 @@
 		</Server>
 		
 		<!-- Second Server, if needed-->
-		<Server Name="Crows Doren Modded Server" >
+		<Server Name="Doren Modded Server" >
 		<!-- IP address of the Server, this value gets updated in the Registry -->
-			<Address>68.206.171.40</Address>						
+			<Address>70.122.75.20</Address>						
 		<!-- Port number of the Server, this value gets updated in the Registry -->
 			<Port>26910</Port>							
 		<!-- Whitelist, Public, Private, etc . Display only field, has no other effect -->
@@ -51,15 +51,15 @@
 		<!-- Contact point, could also be URL. Display purposes only -->			
 			<AdminContact>doren.snow@gmail.com</AdminContact>  	
 		<!-- Server's web page, if available. Used as a web link. -->
-			<WebSite>http://crownexus.ddns.net/Crow7daystoDie/index.htm</WebSite>	
+			<WebSite></WebSite>	
 		<!-- Link to a webpage that will show server information, including mods. Used as a web link. -->
 			<ReleaseNotes>https://crowmoddedserver.envul.com/</ReleaseNotes>
 			<Downloads>
 		<!-- Add in each path to download the zip file: Currently supporting MediaFire, Dropbox, and some envol links. When in doubt, use a direct zip file -->
-				<Download>http://www.mediafire.com/file/1v7gspkllzk97yn/CrowModdedValO.zip</Download>
+				<Download>https://www.mediafire.com/file/5x7m9t96zvk34of/ModedWotWnoP.zip</Download>
 			</Downloads>
 		<!-- Description of your server -->
-			<Description>A15 Stable server using the Valmod Overhaul Mod</Description>
+			<Description>A16.2 Stable server using the War of the Walkers Mod</Description>
 		</Server>
 		
 		<Server Name="Crows Slaths Modded Server" >
