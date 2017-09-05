@@ -31,7 +31,7 @@
 				<Download></Download>
 			</Downloads>
 		<!-- Description of your server -->
-			<Description>A15 Stable Vanilla Server.</Description>
+			<Description>A16.3 Stable Vanilla Server.</Description>
 		</Server>
 		
 		<!-- Second Server, if needed-->
@@ -59,7 +59,7 @@
 				<Download>https://github.com/dwallorde/WaroftheWalkersGitHub2/archive/master.zip</Download>
 			</Downloads>
 		<!-- Description of your server -->
-			<Description>A16.2 Stable server using the War of the Walkers Mod</Description>
+			<Description>A16.3 Stable server using the War of the Walkers Mod</Description>
 		</Server>
 		
 		<Server Name="Crows Slaths Modded Server" >
