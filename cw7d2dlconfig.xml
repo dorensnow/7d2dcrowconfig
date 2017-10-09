@@ -110,10 +110,10 @@
 			<ReleaseNotes>https://crowmoddedserver.envul.com/</ReleaseNotes>
 			<Downloads>
 		<!-- Add in each path to download the zip file: Currently supporting MediaFire, Dropbox, and some envol links. When in doubt, use a direct zip file -->
-				<Download>http://www.mediafire.com/file/rn74xfiy4ab837r/CrowModdedWotW.zip</Download>
+				<Download>https://github.com/dwallorde/WaroftheWalkersGitHub2/archive/master.zip</Download>
 			</Downloads>
 		<!-- Description of your server -->
-			<Description>A15 Stable server using the War of the Walkers mod and combo prefabs</Description>
+			<Description>A16.3 Stable server using the War of the Walkers mod and combo prefabs</Description>
 		</Server>		
 	</ServerGroup>
 </Servers>
