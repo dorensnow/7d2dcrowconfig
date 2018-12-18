@@ -11,7 +11,7 @@
 		<!-- IP address of the Server, this value gets updated in the Registry -->
 			<Address>70.122.75.20</Address>						
 		<!-- Port number of the Server, this value gets updated in the Registry -->
-			<Port>26900</Port>							
+			<Port>26910</Port>							
 		<!-- Whitelist, Public, Private, etc . Display only field, has no other effect -->
 			<Type>Public</Type>									
 		<!-- Latest, or specify an beta version string. If other than Latest, will attempt an beta label on a steam download -->
@@ -37,13 +37,13 @@
 		<!-- Second Server, if needed-->
 		<Server Name="Doren Modded Server" >
 		<!-- IP address of the Server, this value gets updated in the Registry -->
-			<Address>70.122.75.20</Address>						
+			<Address>70.122.67.35</Address>						
 		<!-- Port number of the Server, this value gets updated in the Registry -->
-			<Port>26910</Port>							
+			<Port>26900</Port>							
 		<!-- Whitelist, Public, Private, etc . Display only field, has no other effect -->
 			<Type>Public</Type>									
 		<!-- Latest, or specify an beta version string. If other than Latest, will attempt an beta label on a steam download -->
-			<Version>Latest</Version>  		
+			<Version>Latest Experimental</Version>  		
 		<!-- Enable, Disable EAC. Determines if to run 7DaysToDie_EAC.exe or not -->			
 			<EAC>Enable</EAC>									
 		<!-- Admin Name(s). Display purposes only.  -->			
@@ -53,13 +53,13 @@
 		<!-- Server's web page, if available. Used as a web link. -->
 			<WebSite></WebSite>	
 		<!-- Link to a webpage that will show server information, including mods. Used as a web link. -->
-			<ReleaseNotes>https://crowmoddedserver.envul.com/</ReleaseNotes>
+			<ReleaseNotes></ReleaseNotes>
 			<Downloads>
 		<!-- Add in each path to download the zip file: Currently supporting MediaFire, Dropbox, and some envol links. When in doubt, use a direct zip file -->
 				<Download>https://github.com/dwallorde/WaroftheWalkersGitHub2/archive/master.zip</Download>
 			</Downloads>
 		<!-- Description of your server -->
-			<Description>A16.3 Stable server using the War of the Walkers Mod</Description>
+			<Description>A17e B231 with added modlets</Description>
 		</Server>
 		
 		<!-- Third Server, if needed-->
