@@ -9,7 +9,7 @@
                      <!-- Banner icon Size is 825 x 125-->
                          <Banner></Banner>
 		<!-- IP address of the Server, this value gets updated in the Registry -->
-			<Address>70.122.75.20</Address>						
+			<Address>70.122.67.35</Address>						
 		<!-- Port number of the Server, this value gets updated in the Registry -->
 			<Port>26910</Port>							
 		<!-- Whitelist, Public, Private, etc . Display only field, has no other effect -->
@@ -31,7 +31,7 @@
 				<Download></Download>
 			</Downloads>
 		<!-- Description of your server -->
-			<Description>A16.3 Stable Vanilla Server.</Description>
+			<Description>A17 Stable Vanilla Server.</Description>
 		</Server>
 		
 		<!-- Second Server, if needed-->
@@ -65,9 +65,9 @@
 		<!-- Third Server, if needed-->
 		<Server Name="Doren Modded Server2" >
 		<!-- IP address of the Server, this value gets updated in the Registry -->
-			<Address>70.122.75.20</Address>						
+			<Address>70.122.67.35</Address>						
 		<!-- Port number of the Server, this value gets updated in the Registry -->
-			<Port>26910</Port>							
+			<Port>26920</Port>							
 		<!-- Whitelist, Public, Private, etc . Display only field, has no other effect -->
 			<Type>Public</Type>									
 		<!-- Latest, or specify an beta version string. If other than Latest, will attempt an beta label on a steam download -->
