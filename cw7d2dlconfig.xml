@@ -56,10 +56,10 @@
 			<ReleaseNotes></ReleaseNotes>
 			<Downloads>
 		<!-- Add in each path to download the zip file: Currently supporting MediaFire, Dropbox, and some envol links. When in doubt, use a direct zip file -->
-				<Download>https://github.com/dwallorde/WaroftheWalkersGitHub2/archive/master.zip</Download>
+				<Download>https://github.com/dorensnow/DSServer-MOD-Overhaul/archive/master.zip</Download>
 			</Downloads>
 		<!-- Description of your server -->
-			<Description>A17e B231 with added modlets</Description>
+			<Description>A17e B240 with added modlets and Clockwork Oranges- Unofficial XML Fixes</Description>
 		</Server>
 		
 		<!-- Third Server, if needed-->
