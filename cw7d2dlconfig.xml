@@ -3,7 +3,7 @@
 <!-- Enter in your Group's Name, and any logo that you want to add for your group. Logo is 333 x210-->
 	<ServerGroup Name="Doren Server" Logo="http://crownexus.ddns.net/images/2199463.jpg">
 	<!-- You can run multiple servers, each with different mods, players, and logos -->
-		<Server Name="The Doren Snow Vanilla" Logo="" >
+		<Server Name="The Doren Snow Experimental" Logo="" >
                     <!-- RSS Feed for updates -->
                          <RSS></RSS> 
                      <!-- Banner icon Size is 825 x 125-->
@@ -31,7 +31,7 @@
 				<Download></Download>
 			</Downloads>
 		<!-- Description of your server -->
-			<Description>A17 Stable Vanilla Server.</Description>
+			<Description>A18 Experimental Vanilla Server.</Description>
 		</Server>
 		
 		<!-- Second Server, if needed-->
@@ -59,7 +59,7 @@
 				<Download>https://github.com/dorensnow/DSServer-MOD/archive/master.zip</Download>
 			</Downloads>
 		<!-- Description of your server -->
-			<Description>A17e B240 with added modlets</Description>
+			<Description>A19 Stable Vanilla Server</Description>
 		</Server>
 		
 		<!-- Third Server, if needed-->
