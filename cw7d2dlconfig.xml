@@ -15,7 +15,7 @@
 		<!-- Whitelist, Public, Private, etc . Display only field, has no other effect -->
 			<Type>Public</Type>									
 		<!-- Latest, or specify an beta version string. If other than Latest, will attempt an beta label on a steam download -->
-			<Version>Latest</Version>  		
+			<Version>Latest Experimental</Version>  		
 		<!-- Enable, Disable EAC. Determines if to run 7DaysToDie_EAC.exe or not -->			
 			<EAC>Enable</EAC>									
 		<!-- Admin Name(s). Display purposes only.  -->			
@@ -35,7 +35,7 @@
 		</Server>
 		
 		<!-- Second Server, if needed-->
-		<Server Name="Doren Modded Server" >
+		<Server Name="Doren Stable Server" >
 		<!-- IP address of the Server, this value gets updated in the Registry -->
 			<Address>70.122.67.35</Address>						
 		<!-- Port number of the Server, this value gets updated in the Registry -->
@@ -43,7 +43,7 @@
 		<!-- Whitelist, Public, Private, etc . Display only field, has no other effect -->
 			<Type>Public</Type>									
 		<!-- Latest, or specify an beta version string. If other than Latest, will attempt an beta label on a steam download -->
-			<Version>Latest Experimental</Version>  		
+			<Version>Latest Stable</Version>  		
 		<!-- Enable, Disable EAC. Determines if to run 7DaysToDie_EAC.exe or not -->			
 			<EAC>Enable</EAC>									
 		<!-- Admin Name(s). Display purposes only.  -->			
@@ -56,10 +56,10 @@
 			<ReleaseNotes></ReleaseNotes>
 			<Downloads>
 		<!-- Add in each path to download the zip file: Currently supporting MediaFire, Dropbox, and some envol links. When in doubt, use a direct zip file -->
-				<Download>https://github.com/dorensnow/DSServer-MOD/archive/master.zip</Download>
+				<Download></Download>
 			</Downloads>
 		<!-- Description of your server -->
-			<Description>A19 Stable Vanilla Server</Description>
+			<Description>A18 Stable Vanilla Server</Description>
 		</Server>
 		
 		<!-- Third Server, if needed-->
