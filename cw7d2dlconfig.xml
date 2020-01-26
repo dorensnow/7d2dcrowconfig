@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding="UTF-8"?>
 <Servers >
 <!-- Enter in your Group's Name, and any logo that you want to add for your group. Logo is 333 x210-->
-	<ServerGroup Name="Doren Server" Logo="http://crownexus.ddns.net/images/2199463.jpg">
+	<ServerGroup Name="Doren Snow Gaming" Logo="http://crownexus.ddns.net/images/2199463.jpg">
 	<!-- You can run multiple servers, each with different mods, players, and logos -->
-		<Server Name="The Doren Snow Experimental" Logo="" >
+		<Server Name=" DS Gaming Exp" Logo="" >
                     <!-- RSS Feed for updates -->
                          <RSS></RSS> 
                      <!-- Banner icon Size is 825 x 125-->
@@ -31,11 +31,11 @@
 				<Download></Download>
 			</Downloads>
 		<!-- Description of your server -->
-			<Description>A18 Experimental Vanilla Server.</Description>
+			<Description>A18 Experimental with Simple UI and Starter crate mods only Server.</Description>
 		</Server>
 		
 		<!-- Second Server, if needed-->
-		<Server Name="Doren Stable Server" >
+		<Server Name="DS Gaming Stable" >
 		<!-- IP address of the Server, this value gets updated in the Registry -->
 			<Address>70.122.67.35</Address>						
 		<!-- Port number of the Server, this value gets updated in the Registry -->
@@ -59,11 +59,11 @@
 				<Download></Download>
 			</Downloads>
 		<!-- Description of your server -->
-			<Description>A18 Stable Vanilla Server</Description>
+			<Description>A18 Stable with Simple UI and Starter crate mods only Server.</Description>
 		</Server>
 		
 		<!-- Third Server, if needed-->
-		<Server Name="Doren Modded Server2" >
+		<Server Name="Doren Modded ClientServer" >
 		<!-- IP address of the Server, this value gets updated in the Registry -->
 			<Address>70.122.67.35</Address>						
 		<!-- Port number of the Server, this value gets updated in the Registry -->
@@ -81,13 +81,13 @@
 		<!-- Server's web page, if available. Used as a web link. -->
 			<WebSite></WebSite>	
 		<!-- Link to a webpage that will show server information, including mods. Used as a web link. -->
-			<ReleaseNotes>https://crowmoddedserver.envul.com/</ReleaseNotes>
+			<ReleaseNotes></ReleaseNotes>
 			<Downloads>
 		<!-- Add in each path to download the zip file: Currently supporting MediaFire, Dropbox, and some envol links. When in doubt, use a direct zip file -->
 				<Download></Download>
 			</Downloads>
 		<!-- Description of your server -->
-			<Description>A17e B240 with added modlets and Clockwork Oranges- Unofficial XML Fixes</Description>
+			<Description>A18 Stable with multiple mods</Description>
 		</Server>
 		<Server Name="Crows Slaths Modded Server" >
 		<!-- IP address of the Server, this value gets updated in the Registry -->
