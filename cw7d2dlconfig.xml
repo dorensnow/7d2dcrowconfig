@@ -31,7 +31,7 @@
 				<Download></Download>
 			</Downloads>
 		<!-- Description of your server -->
-			<Description>A18 Experimental with Simple UI and Starter crate mods only Server.</Description>
+			<Description>A19 Experimental.</Description>
 		</Server>
 		
 		<!-- Second Server, if needed-->
@@ -56,10 +56,10 @@
 			<ReleaseNotes></ReleaseNotes>
 			<Downloads>
 		<!-- Add in each path to download the zip file: Currently supporting MediaFire, Dropbox, and some envol links. When in doubt, use a direct zip file -->
-				<Download></Download>
+				<Download>https://github.com/dorensnow/DSServer-MOD/archive/master.zip</Download>
 			</Downloads>
 		<!-- Description of your server -->
-			<Description>A18 Stable with Simple UI and Starter crate mods only Server.</Description>
+			<Description>A19 Stable with DS server mod pack installed.</Description>
 		</Server>
 		
 		<!-- Third Server, if needed-->
@@ -87,7 +87,7 @@
 				<Download></Download>
 			</Downloads>
 		<!-- Description of your server -->
-			<Description>A18 Stable with multiple mods</Description>
+			<Description>A19 Stable with multiple mods</Description>
 		</Server>
 		<Server Name="Crows Slaths Modded Server" >
 		<!-- IP address of the Server, this value gets updated in the Registry -->
